@@ -1,0 +1,1 @@
+# C--CodingStandard_CleanCode
