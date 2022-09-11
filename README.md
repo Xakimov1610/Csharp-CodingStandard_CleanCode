@@ -1,1 +1,3 @@
-# C--CodingStandard_CleanCode
+# C# CodingStandard_CleanCode
+# Clean Code 
+# Gluwa Coding Standard
